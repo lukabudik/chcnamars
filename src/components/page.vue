@@ -1,5 +1,5 @@
 <template>
-  <div class="text-indigo-400 bg-cover bg-fixed" style="background-image: url('header.png');">
+  <div class="text-indigo-400 bg-cover bg-fixed height-full h-screen" style="background-image: url('header.png');">
       <!--Main-->
       <div class="container pt-24 md:pt-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
         <!--Left Col-->
@@ -11,7 +11,7 @@
             19.03. 2021 - 12:00
           </p>
 
-          <form class="bg-gray-900 opacity-75 w-full shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
+          <form class="bg-gray-900 w-full shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
             <div class="mb-4">
               <label class="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
                 P
@@ -37,7 +37,7 @@
 
         <!--Right Col-->
         <div class="w-full xl:w-3/5 p-12 overflow-hidden">
-          
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/vJEmbs27lCs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
         <!--Footer-->
