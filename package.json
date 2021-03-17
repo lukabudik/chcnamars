@@ -1,5 +1,5 @@
 {
-  "name": "chcnamars",
+  "name": "chcnamars2",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -7,8 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vite-plugin-windicss": "^0.8.4",
-    "vue": "^2.6.12"
+    "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.5",
