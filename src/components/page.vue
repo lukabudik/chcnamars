@@ -42,9 +42,8 @@
 
         <!--Footer-->
         <div class="w-full pt-16 pb-6 text-sm text-center md:text-left fade-in">
-          <a class="text-gray-500 no-underline hover:no-underline" href="#">&copy; </a>
-          - Template by
-          <a class="text-gray-500 no-underline hover:no-underline" href="https://www.tailwindtoolbox.com">TailwindToolbox.com</a>
+          <a class="text-gray-500 no-underline hover:no-underline" href="#">&copy; CHC letí na Mars - </a>
+          made by mega frajeři - Veronika Gazdová, Adéla Ševčíková, Luka Budík, Jiří Michalec, Robert Goldmann, Filip Havlík, Matěj Höhl
         </div>
       </div>
     </div>
