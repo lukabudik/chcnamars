@@ -30,7 +30,7 @@
 
         <!--Right Col-->
         <div class="w-full xl:w-3/5 p-12 overflow-hidden">
-          <iframe width="1000" height="500" src="https://www.youtube.com/embed/m1HXwqzHw0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="1000" height="500" src="https://www.youtube.com/embed/QEXnrBvj_e0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
         <!--Footer-->
