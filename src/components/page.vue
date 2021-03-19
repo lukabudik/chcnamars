@@ -17,15 +17,14 @@
                 Staň se jedním ze šťastlivců a vyhraj letenku na Mars a dárkové předměty jako je obal na telefon, mikina či vzpomínková placka!
               </label>
             </div>
-
-            <div class="flex items-center justify-between pt-4">
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLScLSR0R3UxpIpsQy2ouF9NqfFvx-O9f7Zd7kUtNg8eaJgeRpA/viewform?usp=sf_link"
-                class="bg-gradient-to-r from-purple-800 to-green-500 hover:from-pink-500 hover:to-green-500 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
-                type="button"
-              >
-                Soutěžit
-              </a>
+            <div class="mb-4">
+              <label class="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
+                Pošli SMS ve tvaru "CHC" na číslo +420 420 696969, soutěžící bude náhodně vybrán!
+              </label>
             </div>
+
+            
+            
           </form>
         </div>
 
