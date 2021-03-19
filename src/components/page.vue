@@ -1,5 +1,5 @@
 <template>
-  <div class="text-indigo-400 bg-cover bg-fixed height-full h-screen" style="background-image: url('header.png');">
+  <div class="telo text-indigo-400 bg-cover bg-fixed height-full h-screen font-sans" style="background-image: url('header.webp');">
       <!--Main-->
       <div class="container pt-24 md:pt-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
         <!--Left Col-->
@@ -14,23 +14,17 @@
           <form class="bg-gray-900 w-full shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
             <div class="mb-4">
               <label class="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
-                Staň se jedním ze šťastlivců a vyhraj letenku na Mars!
+                Staň se jedním ze šťastlivců a vyhraj letenku na Mars a dárkové předměty jako je obal na telefon, mikina či vzpomínková placka!
               </label>
-              <input
-                class="shadow appearance-none border rounded w-full p-3 text-gray-700 leading-tight focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
-                id="name"
-                type="text"
-                placeholder="Jan Novák"
-              />
             </div>
 
             <div class="flex items-center justify-between pt-4">
-              <button
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScLSR0R3UxpIpsQy2ouF9NqfFvx-O9f7Zd7kUtNg8eaJgeRpA/viewform?usp=sf_link"
                 class="bg-gradient-to-r from-purple-800 to-green-500 hover:from-pink-500 hover:to-green-500 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                 type="button"
               >
                 Soutěžit
-              </button>
+              </a>
             </div>
           </form>
         </div>
@@ -58,4 +52,7 @@ export default defineComponent({
 </script>
 
 <style>
+.telo {
+    font-family: 'earthorbiter';
+}
 </style>
